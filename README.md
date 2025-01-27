@@ -12,7 +12,7 @@
 
 **Languages:** 
 ```python
- Programming = ['Python','Javascript','Typescript','PHP']
+ Programming = ['Python','Javascript','Typescript','PHP','C++','C#']
  Real = ['English','Polish']
 ```
 
