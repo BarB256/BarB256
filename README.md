@@ -25,7 +25,8 @@ TTL=20
 ## Ussage Statistics
 ### All time
 
-  ![image](https://github.com/user-attachments/assets/19826e00-ce1d-4760-8c49-fff20e5b859a)
+  ![image](https://github.com/user-attachments/assets/f6ac0db8-b5ba-48c5-b579-e2a504e98fe8)
+
 ---
 ### 2025
 
