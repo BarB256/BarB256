@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi my name is Bartosz Bobkiewicz ✨
 
-<!--
-**BarB256/BarB256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## System Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Operating Systems Supported:** 
+```python
+- `Windows`  
+- `Linux`
+```
+
+**Languages:** 
+```python
+ Programming = ['Python','Javascript','Typescript','PHP']
+ Real = ['English','Polish']
+```
+
+**Host/Origin:**
+```python
+#Denmark/Poland
+TTL=20
+```
+
+## Ussage Statistics
+### All time
+
+  ![image](https://github.com/user-attachments/assets/19826e00-ce1d-4760-8c49-fff20e5b859a)
+---
+### 2025
+
+  ![image](https://github.com/user-attachments/assets/c2bf3da1-78b1-4954-b83e-153ad62b1e61)
+
+
+
