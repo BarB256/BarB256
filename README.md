@@ -22,6 +22,15 @@
 TTL=20
 ```
 
+**Tools:** 
+```python
+-  Front-End = ['Angular','HTML','CSS'] 
+-  Back-End = ['Node.js','Express']
+-  DevOps = ['Docker','Oracle Cloud']
+-  Databases = ['PostgreSQL','MySQL','MongoDB']
+-  Other = ['Git','Github','Agile/Scrum','Cloudflare','Unity','Figma']
+```
+
 ## Ussage Statistics
 ### All time
 
