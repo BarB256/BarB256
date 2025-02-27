@@ -28,6 +28,9 @@
 }
 ```
 
+##Stats
+![](https://bobkiewicz.eu/github-widget/language_stats_all_time.png) ![](https://bobkiewicz.eu/github-widget/language_stats_2025.png)
+
 
 
 
