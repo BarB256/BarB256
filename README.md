@@ -4,43 +4,29 @@
 
 ## System Information
 
-**Operating Systems Supported:** 
-```python
-- `Windows`  
-- `Linux`
+```json
+{
+  "name": "Bartosz Bobkiewicz ✨",
+  "system_information": {
+    "operating_systems_supported": ["Windows", "Linux"],
+    "languages": {
+      "programming": ["Python", "Javascript", "Typescript", "PHP", "C++", "C#"],
+      "real": ["English", "Polish"]
+    },
+    "host_origin": {
+      "country": ["Denmark", "Poland"],
+      "TTL": 20
+    }
+  },
+  "tools": {
+    "front_end": ["Angular", "HTML", "CSS"],
+    "back_end": ["Node.js", "Express"],
+    "dev_ops": ["Docker", "Oracle Cloud"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
+    "other": ["Git", "Github", "Agile/Scrum", "Cloudflare", "Unity", "Figma"]
+  }
+}
 ```
-
-**Languages:** 
-```python
- Programming = ['Python','Javascript','Typescript','PHP','C++','C#']
- Real = ['English','Polish']
-```
-
-**Host/Origin:**
-```python
-#Denmark/Poland
-TTL=20
-```
-
-**Tools:** 
-```python
--  Front-End = ['Angular','HTML','CSS'] 
--  Back-End = ['Node.js','Express']
--  DevOps = ['Docker','Oracle Cloud']
--  Databases = ['PostgreSQL','MySQL','MongoDB']
--  Other = ['Git','Github','Agile/Scrum','Cloudflare','Unity','Figma']
-```
-
-## Ussage Statistics
-### All time
-
-![image](https://github.com/user-attachments/assets/d641fc00-8008-4353-8cca-828540c57224)
-
-
----
-### 2025
-
- ![image](https://github.com/user-attachments/assets/bd7effca-24b7-412c-8d37-66fdd1d4d9e8)
 
 
 
