@@ -28,9 +28,10 @@
 }
 ```
 
-##Stats
-![](https://bobkiewicz.eu/github-widget/language_stats_all_time.png) ![](https://bobkiewicz.eu/github-widget/language_stats_2025.png)
+## Stats
 
-
-
+<p align="center">
+  <img src="https://bobkiewicz.eu/github-widget/language_stats_all_time.png" width="48%" margin-right="4%" >
+  <img src="https://bobkiewicz.eu/github-widget/language_stats_2025.png" width="48%">
+</p>
 
