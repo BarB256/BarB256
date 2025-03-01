@@ -28,7 +28,7 @@
 }
 ```
 
-## Stats
+## Stats (by lines written)
 
 <p align="center">
   <img src="https://bobkiewicz.eu/github-widget/language_stats_all_time.png" width="48%" margin-right="4%" >
