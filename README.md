@@ -19,11 +19,11 @@
     }
   },
   "tools": {
-    "front_end": ["Angular", "HTML", "CSS"],
+    "front_end": ["React", "Angular", "HTML", "CSS"],
     "back_end": ["Node.js", "Express"],
     "dev_ops": ["Docker", "Oracle Cloud"],
     "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-    "other": ["Git", "Github", "Agile/Scrum", "Cloudflare", "Unity", "Figma"]
+    "other": ["Git", "Github", "Agile/Scrum", "Cloudflare", "Unity", "Figma", "Ollama", "Google Search Console"]
   }
 }
 ```
