@@ -20,10 +20,13 @@ $ nix-info --location
 Ever wondered how you stack up against the people following me?
 
 #### `> THE FINAL FIGHT of today's championship`
+
 *The fight refreshes everyday*
+
 ![Leaderboard](https://images.bobkiewicz.eu/fight.gif?test)
 
 **Here's the leaderboard.**
+
 ![Leaderboard](https://images.bobkiewicz.eu/ranking.jpg)
 
 #### `> arena`
